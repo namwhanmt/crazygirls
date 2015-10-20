@@ -2,7 +2,7 @@
 
 echo "Get number"
 read x1
-echo "Choose operation?"
+echo "Please choose the operation?"
 read x2
 echo "Get number"
 read x3
