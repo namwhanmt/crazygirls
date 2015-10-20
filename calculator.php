@@ -1,5 +1,5 @@
 <html>
-<head><title>Say Hi! We are crazyGirls</title></head>
+<head><title>Say hello :)  We are crazyGirls nice to meet you</title></head>
 <body>
   <h1> Let Go !!! Try to use a calculator.</h1>
   <p>Are You ready ????</p>
