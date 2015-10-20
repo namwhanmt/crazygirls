@@ -2,10 +2,10 @@
 <head><title>Say Hi! We are crazyGirls</title></head>
 <body>
   <h1> Let Go !!! Try to use a calculator.</h1>
-  <p>R U ready ????</p>
-  <h2>Haa wait a minute </h2>
+  <p>Are You ready ????</p>
+  <h2>Haa Please wait a minute </h2>
   <p>OK ! 5 4 3 2 go</p>
-    <form method = "POST" action = "hi.php">
+    <form method = "POST" action = "calculator.php">
     <p align =  "center">
       <input type = "text" name = "num1">
 
